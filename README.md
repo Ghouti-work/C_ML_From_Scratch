@@ -11,3 +11,4 @@
 
 - [Perceptron](https://github.com/tsoding/perceptron)
 - [ml-nots](https://github.com/tsoding/ml-notes)
+- [nn.h](https://github.com/tsoding/nn.h.git) this is a mat framework
